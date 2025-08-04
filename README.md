@@ -1,4 +1,4 @@
-This Project was created using Python. I conducted data cleaning, data transformation and preprocessing and tried many model (from linear regression as a base line to Random forrest) I used a stacking approach to combine 2 models, namely _ and _'
+This Project was created using Python. I conducted data cleaning, data transformation and preprocessing and tried many model (from linear regression as a base line to Random forrest) I used a stacking approach to combine 3 models, namely Gradient Boosting Regressor, Extra Trees Regressor and Random Forrest Regressor'
 
 The simple user interface was also made using Python.
  Credits to CampusX for the youtube tutorial.
